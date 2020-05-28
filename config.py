@@ -1,5 +1,5 @@
-## LOGIN
-Username = 'xxx'
+9## LOGIN
+Username = 'xx'
 Password = 'xxx'
 ##BET SETTINGS
 base_bet = float(0.010)
